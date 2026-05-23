@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="DosedIQ" width="200">
+</p>
+
 # DosedIQ
 
 Educational short-form video content about science, nature, and the world around us.
